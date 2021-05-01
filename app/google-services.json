@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316963394460",
+    "project_id": "glutor",
+    "storage_bucket": "glutor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316963394460:android:3da90c76c42f7dea3cae59",
+        "android_client_info": {
+          "package_name": "com.example.glutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316963394460-tma1ua3k4rbdql2p74jqka1jrci0mijo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0Qqtt3j1OTifAEsxKc85ceN6CREt3To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316963394460-tma1ua3k4rbdql2p74jqka1jrci0mijo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
