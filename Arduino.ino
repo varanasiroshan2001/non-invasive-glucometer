@@ -1,19 +1,29 @@
-#include  <Wire.h>
+#include <Wire.h>
 #include <LiquidCrystal_I2C.h>
+#include <SoftwareSerial.h>
 int sensorVal=0;
 int mg=0;
 const int buttonPin=2;
 int buttonState=0;
+SoftwareSerial MyBlue(0, 1  ); // RX | TX
+
 LiquidCrystal_I2C lcd(0x3F,16,2);
 int cal;
 void setup() {
 lcd.init();
 lcd.backlight();
+  MyBlue.begin(9600);
+  Serial.begin(9600);
 pinMode(buttonPin,INPUT);
+pinMode(3,OUTPUT);
 pinMode(A0,INPUT);
+pinMode(A1,OUTPUT);
 cal=callibration();
 lcd.begin(16,2);
 lcd.print("Press and blow");
+digitalWrite(3,HIGH);
+digitalWrite(A1,HIGH);
+
 }
 
 void loop() {
@@ -39,6 +49,7 @@ if (buttonState==HIGH)
   lcd.print("Glucose level: ");
   lcd.setCursor(0,1);
   lcd.print(int(sensorVal),DEC);
+  Serial.println(int(sensorVal));
   lcd.setCursor(5,1);
   lcd.print("mg/dL");
   }
@@ -59,3 +70,5 @@ int callibration()
 call=call/20;
   return call;
   }
+  
+
