@@ -5,7 +5,7 @@ int sensorVal=0;
 int mg=0;
 const int buttonPin=2;
 int buttonState=0;
-SoftwareSerial MyBlue(0, 1  ); // RX | TX
+SoftwareSerial MyBlue(0, 1  ); // RX |  TX
 
 LiquidCrystal_I2C lcd(0x3F,16,2);
 int cal;
