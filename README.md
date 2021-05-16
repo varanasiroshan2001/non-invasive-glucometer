@@ -38,6 +38,17 @@ Regular reminders and measures according to the blood glucose levels
 Few other parameters like body temperature, lungs functionality, health of heart can be determined in parallel.
 Non-contact in nature to avoid any possible corruptions.
 
+![3](https://user-images.githubusercontent.com/64471180/118408024-421b3000-b6a1-11eb-9978-a0faa9f78078.png)  
+![2](https://user-images.githubusercontent.com/64471180/118408026-43e4f380-b6a1-11eb-9503-7156a85250d7.png)  
+![1](https://user-images.githubusercontent.com/64471180/118408028-447d8a00-b6a1-11eb-8b47-781674fa300e.png)  
+![9](https://user-images.githubusercontent.com/64471180/118408029-45162080-b6a1-11eb-9cb0-921850e2f021.png)  
+![8](https://user-images.githubusercontent.com/64471180/118408031-45aeb700-b6a1-11eb-8b02-b2b2365f038a.png)   
+![7](https://user-images.githubusercontent.com/64471180/118408032-45aeb700-b6a1-11eb-8710-2f236cf5baf7.png)   
+![6](https://user-images.githubusercontent.com/64471180/118408033-46474d80-b6a1-11eb-9a06-6f4354d89b0e.png)   
+![5](https://user-images.githubusercontent.com/64471180/118408036-46dfe400-b6a1-11eb-9041-b4514256708a.png)   
+![4](https://user-images.githubusercontent.com/64471180/118408039-47787a80-b6a1-11eb-9331-e1b0e97212d3.png)    
+
+
 # Challenges we ran into🙄
 We ran into challenges like data processing , data sheets and calculating the reports for user as we are the first ones to built this so no previous reports were there so those data sheets needed to be calculate properly which we are doing continuously to bring to action also when were deploying it to aws the dynamodb part of intricating with real time data from app was a bit challenging.
 
