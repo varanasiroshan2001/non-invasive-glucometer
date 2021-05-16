@@ -27,7 +27,7 @@ Along with the hardware, we have made an android application where the user can 
 # In the advantages of using this idea or product 🤯: 
 
 Low cost and low power device.   
-Small in size and thus making is portable.    
+Small in size and thus making it portable.    
 Can be used by anyone.    
 Can be used multiple times.    
 No or less accessories    
@@ -53,10 +53,10 @@ Non-contact in nature to avoid any possible corruptions.
 We ran into challenges like data processing , data sheets and calculating the reports for user as we are the first ones to built this so no previous reports were there so those data sheets needed to be calculate properly which we are doing continuously to bring to action also when were deploying it to aws the dynamodb part of intricating with real time data from app was a bit challenging.
 
 # Accomplishments that we're proud of👍👍🎊🎊🎊
-we successfully did a reading on acetone research papers and we found out this was a very unique idea which we found out and it may be the huge startup idea to be built upon with very less amount of cost and harm to people and environment with reduced medical wastage.
+we successfully did a reading on acetone research papers and we found out this was a very unique idea which we found out and it may be a huge startup idea to be built upon with very less amount of cost and harm to people and environment with reduced medical wastage.
 
 # What we learned
-we learned many things like the acetone level sensing from mouth and integrating with cloud to deploy it and with using so much less things we can solve a huge solution in for the world
+we learned many things like the acetone level sensing from mouth and integrating with cloud to deploy it and with using very ordinary things we can solve a huge problem for the world
 
 # What's next for Non-invasive Glucometer🔜🔜
 we are deciding to grow it to a startup if possible and help as many people as possible with this kind of market evaluation... adding more health detection systems other than diabetes adding of ML in the project so it will auto analyze the reports and become and give more accurate results next.
