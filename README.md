@@ -20,8 +20,11 @@ The human breath contains several hundred VOCs with concentrations ranging from 
 Along with the hardware, we have made an android application where the user can store his/her daily measured data and can have support. The application has its own server maintained using Google Firebase for password authentication and login related data. Each user can create their own account in the application itself and can check his daily, weekly or monthly reports. The user must enter his glucose level as shown from the device in the application. Health support and good practices can also be seen in the app. We also connected Thingspeak IOT to collect the sensors data efficiently and send it to cloud and update in the app We also used many AWS services to make the flow and latency time lesser
 
 AWS S3 - AUTO UPLOAD IMAGES TO CLOUD.WHEN THE REPORTS OR ANYTHING WILL BE DONE THE RESULTANT IMAGES WILL BE STORED IN S3
+
 AWS DYNAMODB - FOR KEEPING DATABASES AND WHENEVER THE USER WANTS TO SEE THEM CAN ACCESS IT THROUGH THIS..
+
 AWS LAMBDA & FARGATE - FOR SERVERLESS & SOFT & FAST MANAGEMENT SO THAT WE CAN DEPLOY THIS APP & WEBSITE ALL GLOBALLY WITH NO MANAGING TENSIONS WITH MINIMAL LATENCY
+
 AWS API - TO MAINTAIN BEST API SERVICE TO DEVELOPERS AND GIVE OPTION FOR ALL USERS TO USE API SERVICE AND ALSO WITH OUR WEBSITE TO WORK UPON
 
 # In the advantages of using this idea or product 🤯: 
