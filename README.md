@@ -3,6 +3,11 @@
 # Inspiration😎
 Whenever we use a diabetes checking machine it always takes blood from our body which may be very less which also gives pain to us and has increased chances of infection (specially for babies and once who are phobic to needles or pain) and also to decrease the medical wastage given by normal glucometers, so we have developed from that inspiration this one so the person will only has to blow the air from his mouth …and that's it the readings of blood sugar levels, diabetes, etc. will come
 
+[Fully Explained Detailed Video](https://youtu.be/Ah4yK2jlqso)
+
+![mq2](https://user-images.githubusercontent.com/64471180/118407882-6b878c00-b6a0-11eb-8ca3-05eabf8b0998.jpg)
+
+
 # What it does👀
 It checks the blood sugar levels, diabetes level just from the blown air of the mouth from acetone level sensing..... If we see the biology behind it, in Pancreas insulin is formed, when the level of insulin is decreased it indicates the symptoms of diabetics. As the result of decrease in insulin it directly effects the fat cells which gets converted into ketone bodies in the liver. This process is known as Ketogenesis. As the result the acetone level in blood cells is increased. So, we can measure the glucose level through acetone present in our breath which will help us detect diabetes without taking out blood.
 
