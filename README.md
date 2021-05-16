@@ -26,17 +26,17 @@ Along with the hardware, we have made an android application where the user can 
 
 # In the advantages of using this idea or product 🤯: 
 
-Low cost and low power device.
-Small in size and thus making is portable.
-Can be used by anyone.
-Can be used multiple times.
-No or less accessories
-Multipurpose device
-User-friendly
-Comes with an android application for glucose monitoring and controlling
-Regular reminders and measures according to the blood glucose levels
-Few other parameters like body temperature, lungs functionality, health of heart can be determined in parallel.
-Non-contact in nature to avoid any possible corruptions.
+Low cost and low power device.   
+Small in size and thus making is portable.    
+Can be used by anyone.    
+Can be used multiple times.    
+No or less accessories    
+Multipurpose device    
+User-friendly    
+Comes with an android application for glucose monitoring and controlling    
+Regular reminders and measures according to the blood glucose levels    
+Few other parameters like body temperature, lungs functionality, health of heart can be determined in parallel.   
+Non-contact in nature to avoid any possible corruptions.    
 
 ![3](https://user-images.githubusercontent.com/64471180/118408024-421b3000-b6a1-11eb-9978-a0faa9f78078.png)  
 ![2](https://user-images.githubusercontent.com/64471180/118408026-43e4f380-b6a1-11eb-9503-7156a85250d7.png)  
