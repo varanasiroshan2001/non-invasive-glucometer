@@ -56,7 +56,7 @@ if (buttonState==HIGH)
   else
   return;
 }
-int callibration()
+int callibration()  //the sensor calliberation
 {
   int s=0;
   int call=0;
