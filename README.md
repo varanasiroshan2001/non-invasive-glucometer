@@ -50,10 +50,10 @@ Non-contact in nature to avoid any possible corruptions.
 
 
 # Challenges we ran into🙄
-We ran into challenges like data processing , data sheets and calculating the reports for user as we are the first ones to built this so no previous reports were there so those data sheets needed to be calculate properly which we are doing continuously to bring to action also when were deploying it to aws the dynamodb part of intricating with real time data from app was a bit challenging.
+We ran into challenges like data processing data sheets and calculating the reports for user as we are the first ones to built this, so no previous reports were there so those data sheets needed to be calculate properly which we are doing continuously to bring to action also when we were deploying it to aws the dynamodb part of intricating with real time data from app was a bit challenging.
 
 # Accomplishments that we're proud of👍👍🎊🎊🎊
-we successfully did a reading on acetone research papers and we found out this was a very unique idea which we found out and it may be a huge startup idea to be built upon with very less amount of cost and harm to people and environment with reduced medical wastage.
+we successfully did a reading on acetone research papers and we realized that, this was a very unique idea which we found out and it may turn out to be a huge startup idea to be built upon with very less amount of cost and harm to people and environment with reduced medical wastage.
 
 # What we learned
 we learned many things like the acetone level sensing from mouth and integrating with cloud to deploy it and with using very ordinary things we can solve a huge problem for the world
@@ -61,13 +61,14 @@ we learned many things like the acetone level sensing from mouth and integrating
 # What's next for Non-invasive Glucometer🔜🔜
 we are deciding to grow it to a startup if possible and help as many people as possible with this kind of market evaluation... adding more health detection systems other than diabetes adding of ML in the project so it will auto analyze the reports and become and give more accurate results next.
 
-Can be used for diagnosis of diabetes
+Can be used for diagnosis of diabetes(with more convinience)
 Can be used to control and maintain the blood sugar level.
 Can be used for temperature measurement, lung, functionality, health of heart etc.
 Can be used in medical facilities for quick and painless diagnosis
 Can be used to contact local/national doctors/specialists
 We will be also looking to develop this not only for blood sugar or diabetes but many other diseases like lung cancer, breast cancer, etc.
 We will be also looking to use AWS extensively after this to make it good and fast time error efficient reports.
+Reduces medical wastage caused by the one time use strips.
 
 # Built With
 amazon-web-services   
