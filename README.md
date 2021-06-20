@@ -3,7 +3,7 @@
 # Inspiration😎
 Whenever we use a diabetes checking machine it always takes blood from our body which may be very less which also gives pain to us and has increased chances of infection (specially for babies and once who are phobic to needles or pain) and also to decrease the medical wastage given by normal glucometers, so we have developed from that inspiration this one so the person will only has to blow the air from his mouth …and that's it the readings of blood sugar levels, diabetes, etc. will come
 
-[Fully Explained Detailed Video](https://youtu.be/Ah4yK2jlqso)
+[Fully Explained Detailed Video](https://youtu.be/RFSj5SM7-rI)
 
 ![mq2](https://user-images.githubusercontent.com/64471180/118407882-6b878c00-b6a0-11eb-8ca3-05eabf8b0998.jpg)
 
